@@ -13,7 +13,7 @@
 
 ## 🌐 Live Application & Repository
 
-- **Live URL**: [https://studyflow-ai-production.vercel.app](https://studyflow-ai-production.vercel.app) *(Deployable to Vercel/Netlify with 1 click)*
+- **Live URL**: [https://flyrank-capstone1.vercel.app](https://flyrank-capstone1.vercel.app) *(Deployable to Vercel with 1 click)*
 - **GitHub Repository**: [https://github.com/safuan36/flyrank_capstone1](https://github.com/safuan36/flyrank_capstone1)
 - **Accessibility Standard**: Tested and certified for **WCAG 2.1 AA** compliance with zero axe-core violations.
 
