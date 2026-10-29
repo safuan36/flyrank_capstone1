@@ -4,7 +4,7 @@
 - **Student**: Safuan (consoleworld0@gmail.com)
 - **Project**: StudyFlow AI — Cognitive Study Planner & Retrieval Practice Copilot
 - **Live URL**: https://studyflow-ai-production.vercel.app
-- **Repository**: https://github.com/safuan36/accessible-components-fe05
+- **Repository**: https://github.com/safuan36/flyrank_capstone1
 - **Stack**: React 18, TypeScript (Strict), Tailwind CSS, Vite, Vitest, Testing Library, Anthropic Claude API, Google Gemini API
 
 ---
@@ -26,11 +26,11 @@
 
 ## 3. Repository with Complete README
 
-- **GitHub Repository**: [https://github.com/safuan36/accessible-components-fe05](https://github.com/safuan36/accessible-components-fe05)
+- **GitHub Repository**: [https://github.com/safuan36/flyrank_capstone1](https://github.com/safuan36/flyrank_capstone1)
 - **Setup & Run Instructions**:
   ```bash
-  git clone https://github.com/safuan36/accessible-components-fe05.git
-  cd accessible-components-fe05
+  git clone https://github.com/safuan36/flyrank_capstone1.git
+  cd flyrank_capstone1
   npm install
   npm run dev
   ```

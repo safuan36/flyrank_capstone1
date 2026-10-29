@@ -14,7 +14,7 @@
 ## 🌐 Live Application & Repository
 
 - **Live URL**: [https://studyflow-ai-production.vercel.app](https://studyflow-ai-production.vercel.app) *(Deployable to Vercel/Netlify with 1 click)*
-- **GitHub Repository**: [https://github.com/safuan36/accessible-components-fe05](https://github.com/safuan36/accessible-components-fe05) *(or capstone repository)*
+- **GitHub Repository**: [https://github.com/safuan36/flyrank_capstone1](https://github.com/safuan36/flyrank_capstone1)
 - **Accessibility Standard**: Tested and certified for **WCAG 2.1 AA** compliance with zero axe-core violations.
 
 ---
@@ -25,8 +25,8 @@ Run the application locally in under 60 seconds with Node.js 18+:
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/safuan36/accessible-components-fe05.git
-cd accessible-components-fe05
+git clone https://github.com/safuan36/flyrank_capstone1.git
+cd flyrank_capstone1
 
 # 2. Install dependencies
 npm install

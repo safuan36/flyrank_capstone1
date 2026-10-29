@@ -490,7 +490,7 @@ export const StudyFlowApp: React.FC = () => {
               AI Engine Settings
             </button>
             <a
-              href="https://github.com/safuan36/accessible-components-fe05"
+              href="https://github.com/safuan36/flyrank_capstone1"
               target="_blank"
               rel="noreferrer"
               className="hover:text-indigo-600 dark:hover:text-indigo-400 flex items-center gap-1"
