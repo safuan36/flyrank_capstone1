@@ -3,7 +3,7 @@
 - **Track**: Frontend AI Engineering
 - **Student**: Safuan (consoleworld0@gmail.com)
 - **Project**: StudyFlow AI — Cognitive Study Planner & Retrieval Practice Copilot
-- **Live URL**: https://studyflow-ai-production.vercel.app
+- **Live URL**: https://flyrank-capstone1.vercel.app
 - **Repository**: https://github.com/safuan36/flyrank_capstone1
 - **Stack**: React 18, TypeScript (Strict), Tailwind CSS, Vite, Vitest, Testing Library, Anthropic Claude API, Google Gemini API
 
@@ -17,8 +17,8 @@
 
 ## 2. Live, Deployed Application
 
-- **Production URL**: [https://studyflow-ai-production.vercel.app](https://studyflow-ai-production.vercel.app)
-- **Deployment Platform**: Vercel / Netlify (Production SPA)
+- **Production URL**: [https://flyrank-capstone1.vercel.app](https://flyrank-capstone1.vercel.app)
+- **Deployment Platform**: Vercel (Production SPA)
 - **Functionality**: 100% functional, zero mockups. Full live curriculum generation, active Pomodoro focus countdown, interactive 3-question active recall quizzes, real-time analytics, and persistent browser storage.
 - **Accessibility Standard**: **WCAG 2.1 AA Compliant** (Axe-core certified 0 violations). Full keyboard navigation, focus trap modals, roving tabindex, high contrast color palettes, and ARIA live regions for screen readers.
 
